@@ -1,4 +1,5 @@
 #!/usr/local/bin/bash
+set -euo pipefail
 
 # Important defines:
 # shellcheck disable=SC2046
